@@ -1,0 +1,40 @@
+# Dependencies
+#
+# npm
+node_modules
+# dist folder
+dist/*
+#
+# package-lock.json
+package-lock.json
+#
+# yarn
+yarn.lock
+#
+#
+# End of Dependencies 
+
+# Logs
+#
+*.log
+#
+# End of Logs
+
+# Mac OS files
+#
+.DS_Store
+#
+# End of Mac OS files
+
+# Windows OS files
+#
+Thumbs.db
+Desktop.ini
+#
+# End of Windows OS files
+
+# Linux OS files
+#
+desktop.ini
+#
+# End of Linux OS files

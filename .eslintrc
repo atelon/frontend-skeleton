@@ -1,0 +1,10 @@
+{
+  "extends": ["eslint:recommended", "plugin:inferno/recommended"],
+  "settings": {
+    "inferno": {
+      "createClass": "createClass",
+      "pragma": "Inferno",
+    },
+    "propWrapperFunctions": ["forbidExtraProps"]
+  }
+}
